@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Joe Biden",
+    "title": "President",
+    "picture_url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/joe-biden-portrait.jpg",
+    "bio": "Joe Biden is the 46th president of the United States. He was inaugurated on January 20, 2021.",
+    "contact_info": {
+      "email": "president@whitehouse.gov",
+      "phone": "202-456-1414"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Kamala Harris",
+    "title": "Vice President",
+    "picture_url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/Kamala-Harris-Vice-President.jpg",
+    "bio": "Kamala Harris is the 49th vice president of the United States, inaugurated on January 20, 2021.",
+    "contact_info": {
+      "email": "vicepresident@whitehouse.gov",
+      "phone": "202-456-2326"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Antony Blinken",
+    "title": "Secretary of State",
+    "picture_url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/antony-blinken.jpg",
+    "bio": "Antony Blinken is the Secretary of State under the Biden administration, responsible for overseeing foreign affairs.",
+    "contact_info": {
+      "email": "secretary@state.gov",
+      "phone": "202-647-4000"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Janet Yellen",
+    "title": "Secretary of the Treasury",
+    "picture_url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/Janet-Yellen.jpg",
+    "bio": "Janet Yellen is the first woman to serve as Secretary of the Treasury, appointed in 2021.",
+    "contact_info": {
+      "email": "sec.treasury@treasury.gov",
+      "phone": "202-622-2000"
+    }
+  }
+]
